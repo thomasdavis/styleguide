@@ -1,0 +1,16 @@
+/* Not really too concerned with how to organize CSS 
+   the opinions are too diverse                      */
+
+/* Third party helper libraries */
+@import url("normalize.css");
+@import url("highlighter/shCore.css");
+@import url("highlighter/shCoreDefault.css");
+
+/* Custom themes */
+@import url("theme.css");
+
+@import url("layout.css");
+@import url("menus.css");
+blh { 
+	font-size: 12px;
+}

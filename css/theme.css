@@ -1,0 +1,21 @@
+.container {
+  background-color: #fff;
+}
+body {
+  color: #444;
+}
+
+
+
+a, a:visited {
+  color: #444;
+}
+ 
+a:hover {
+  color: #000;
+  text-decoration: none;
+} 
+
+.un-bulleted {
+  list-style: none;
+}
